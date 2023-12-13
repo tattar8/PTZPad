@@ -11,7 +11,29 @@
 		B3A191022A8418A300959EA7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3A191012A8418A300959EA7 /* ContentView.swift */; };
 		B3A191042A8418A400959EA7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3A191032A8418A400959EA7 /* Assets.xcassets */; };
 		B3A191072A8418A400959EA7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3A191062A8418A400959EA7 /* Preview Assets.xcassets */; };
+		B3A1910E2A84253500959EA7 /* VlcPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3A1910D2A84253500959EA7 /* VlcPlayerView.swift */; };
+		B3A191112A8427A700959EA7 /* MobileVLCKit.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3A191102A8427A700959EA7 /* MobileVLCKit.xcframework */; };
+		B3A191122A8427A700959EA7 /* MobileVLCKit.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B3A191102A8427A700959EA7 /* MobileVLCKit.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		B3A191162A84400200959EA7 /* GamepadControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3A191152A84400200959EA7 /* GamepadControl.swift */; };
+		B3A191182A84894800959EA7 /* ViscaPTZController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3A191172A84894800959EA7 /* ViscaPTZController.swift */; };
+		B3A1911A2A84A23500959EA7 /* PTZControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3A191192A84A23500959EA7 /* PTZControl.swift */; };
+		B3E2A98D2A85BEEF00AFF12C /* PTZManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3E2A98C2A85BEEF00AFF12C /* PTZManager.swift */; };
+		B3E2A98F2A85C2C700AFF12C /* AddCamView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3E2A98E2A85C2C700AFF12C /* AddCamView.swift */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		B3A191132A8427A700959EA7 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				B3A191122A8427A700959EA7 /* MobileVLCKit.xcframework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		B3A190FC2A8418A300959EA7 /* PTZPad.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PTZPad.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -19,6 +41,14 @@
 		B3A191012A8418A300959EA7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B3A191032A8418A400959EA7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B3A191062A8418A400959EA7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B3A1910D2A84253500959EA7 /* VlcPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VlcPlayerView.swift; sourceTree = "<group>"; };
+		B3A191102A8427A700959EA7 /* MobileVLCKit.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = MobileVLCKit.xcframework; path = Carthage/Build/MobileVLCKit.xcframework; sourceTree = "<group>"; };
+		B3A191142A843C5600959EA7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		B3A191152A84400200959EA7 /* GamepadControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GamepadControl.swift; sourceTree = "<group>"; };
+		B3A191172A84894800959EA7 /* ViscaPTZController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViscaPTZController.swift; sourceTree = "<group>"; };
+		B3A191192A84A23500959EA7 /* PTZControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PTZControl.swift; sourceTree = "<group>"; };
+		B3E2A98C2A85BEEF00AFF12C /* PTZManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PTZManager.swift; sourceTree = "<group>"; };
+		B3E2A98E2A85C2C700AFF12C /* AddCamView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCamView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +56,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B3A191112A8427A700959EA7 /* MobileVLCKit.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -37,6 +68,7 @@
 			children = (
 				B3A190FE2A8418A300959EA7 /* PTZPad */,
 				B3A190FD2A8418A300959EA7 /* Products */,
+				B3A1910F2A8427A600959EA7 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -51,10 +83,17 @@
 		B3A190FE2A8418A300959EA7 /* PTZPad */ = {
 			isa = PBXGroup;
 			children = (
+				B3A191142A843C5600959EA7 /* Info.plist */,
+				B3A191152A84400200959EA7 /* GamepadControl.swift */,
 				B3A190FF2A8418A300959EA7 /* PTZPadApp.swift */,
+				B3A1910D2A84253500959EA7 /* VlcPlayerView.swift */,
+				B3E2A98C2A85BEEF00AFF12C /* PTZManager.swift */,
 				B3A191012A8418A300959EA7 /* ContentView.swift */,
 				B3A191032A8418A400959EA7 /* Assets.xcassets */,
 				B3A191052A8418A400959EA7 /* Preview Content */,
+				B3A191172A84894800959EA7 /* ViscaPTZController.swift */,
+				B3A191192A84A23500959EA7 /* PTZControl.swift */,
+				B3E2A98E2A85C2C700AFF12C /* AddCamView.swift */,
 			);
 			path = PTZPad;
 			sourceTree = "<group>";
@@ -67,6 +106,14 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		B3A1910F2A8427A600959EA7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B3A191102A8427A700959EA7 /* MobileVLCKit.xcframework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -77,6 +124,7 @@
 				B3A190F82A8418A300959EA7 /* Sources */,
 				B3A190F92A8418A300959EA7 /* Frameworks */,
 				B3A190FA2A8418A300959EA7 /* Resources */,
+				B3A191132A8427A700959EA7 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -137,8 +185,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B3E2A98F2A85C2C700AFF12C /* AddCamView.swift in Sources */,
 				B3A191022A8418A300959EA7 /* ContentView.swift in Sources */,
+				B3E2A98D2A85BEEF00AFF12C /* PTZManager.swift in Sources */,
+				B3A191182A84894800959EA7 /* ViscaPTZController.swift in Sources */,
+				B3A1911A2A84A23500959EA7 /* PTZControl.swift in Sources */,
 				B3A191002A8418A300959EA7 /* PTZPadApp.swift in Sources */,
+				B3A1910E2A84253500959EA7 /* VlcPlayerView.swift in Sources */,
+				B3A191162A84400200959EA7 /* GamepadControl.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,12 +318,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"PTZPad/Preview Content\"";
 				DEVELOPMENT_TEAM = RPM74Y7QUM;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = PTZPad/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -282,6 +338,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = wqr.PTZPad;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -293,12 +350,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"PTZPad/Preview Content\"";
 				DEVELOPMENT_TEAM = RPM74Y7QUM;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = PTZPad/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -311,6 +370,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = wqr.PTZPad;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

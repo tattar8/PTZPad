@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1178E99C-3C43-4B9A-A34D-F925E7BA2A69"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34E017FD-DC48-41EC-AD06-45265B1CE533"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/VlcPlayerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "init(frame:url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF6233C2-B5E8-43DD-BF7B-B0B1DCFB41FF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/GamepadControl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BF6233C2-B5E8-43DD-BF7B-B0B1DCFB41FF - 98e07fe0e4e727e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PTZPad.GamepadControl.init() -&gt; PTZPad.GamepadControl"
+                  moduleName = "PTZPad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tattar8/Code/rad/PTZPad/PTZPad/GamepadControl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "BF6233C2-B5E8-43DD-BF7B-B0B1DCFB41FF - 98e07fe0e4e727e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PTZPad.GamepadControl.init() -&gt; PTZPad.GamepadControl"
+                  moduleName = "PTZPad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tattar8/Code/rad/PTZPad/PTZPad/GamepadControl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "BF6233C2-B5E8-43DD-BF7B-B0B1DCFB41FF - 5489e93b26b02a68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Foundation.Notification) -&gt; () in PTZPad.GamepadControl.init() -&gt; PTZPad.GamepadControl"
+                  moduleName = "PTZPad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tattar8/Code/rad/PTZPad/PTZPad/GamepadControl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4DC9B4A-7081-4272-BD31-E7A366DDE239"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/GamepadControl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7DE1F1A7-9EAA-4530-898B-A0F4AB1B6C4C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/GamepadControl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35437B36-6236-4983-93B4-E626497FF26B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/ViscaPTZController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "pan(xSpeed:ySpeed:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5846CDA-616B-4B09-AF8D-2AE13BA3BE11"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/ViscaPTZController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "connect()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "416A8795-AE65-4CB5-920A-8400F15761E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/PTZControl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "PTZControl"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "416A8795-AE65-4CB5-920A-8400F15761E7 - c2bec0d9bbbdfa3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for shared"
+                  moduleName = "PTZPad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tattar8/Code/rad/PTZPad/PTZPad/PTZControl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "416A8795-AE65-4CB5-920A-8400F15761E7 - bbce5dc0cdb14f34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PTZPad.PTZControl.shared.unsafeMutableAddressor : PTZPad.PTZControl"
+                  moduleName = "PTZPad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tattar8/Code/rad/PTZPad/PTZPad/PTZControl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10F843DE-52C4-4FE8-8111-39E2415CDC3E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/ViscaPTZController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "connect()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0E165E2-BB36-4F1A-AA1E-618BC9E13078"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/ViscaPTZController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "zoom(speed:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4709E7B9-1146-418E-8E6B-96B8F82D832A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5AFF2B92-00AD-4F39-A5FE-32FA2550096F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/GamepadControl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6515CA74-D590-492F-AC8D-E1607846BF9A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/ViscaPTZController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "init(host:port:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35D49957-F285-40C3-8114-585E86EB35DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/PTZControl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "panTilt(camID:speedX:speedY:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6994AAD0-59AE-448D-95F5-4E832CAA461D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/GamepadControl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3FADBEE-AA68-44EF-BB71-FFB12D542D49"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/ViscaPTZController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "receiveMessage(connection:repeated:numberOfTimes:RetClosure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E3FADBEE-AA68-44EF-BB71-FFB12D542D49 - 2b1c1d3535f63ec2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Network.NWConnection.ContentContext&gt;, Swift.Bool, Swift.Optional&lt;Network.NWError&gt;) -&gt; () in PTZPad.ViscaPTZController.receiveMessage(connection: Network.NWConnection, repeated: Swift.Bool, numberOfTimes: Swift.Int, RetClosure: (Foundation.Data) -&gt; ()) -&gt; ()"
+                  moduleName = "PTZPad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tattar8/Code/rad/PTZPad/PTZPad/ViscaPTZController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "776">
+               </Location>
+               <Location
+                  uuid = "E3FADBEE-AA68-44EF-BB71-FFB12D542D49 - 2b1c1d3535f63ec2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Network.NWConnection.ContentContext&gt;, Swift.Bool, Swift.Optional&lt;Network.NWError&gt;) -&gt; () in PTZPad.ViscaPTZController.receiveMessage(connection: Network.NWConnection, repeated: Swift.Bool, numberOfTimes: Swift.Int, RetClosure: (Foundation.Data) -&gt; ()) -&gt; ()"
+                  moduleName = "PTZPad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tattar8/Code/rad/PTZPad/PTZPad/ViscaPTZController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B21914A-F8E7-43D3-A7E1-F301FDB71D20"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/ViscaPTZController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "getPTZPosition(RetClosure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73540505-9702-4D17-A687-1816C00FB3F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/ViscaPTZController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "send(_:rcv:RetClosure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56A7A17F-566F-4889-9EAB-882126728ACA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/ViscaPTZController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "receiveMessage(connection:repeated:numberOfTimes:RetClosure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "56A7A17F-566F-4889-9EAB-882126728ACA - a5d99d9d73a75f67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Network.NWConnection.ContentContext&gt;, Swift.Bool, Swift.Optional&lt;Network.NWError&gt;) -&gt; () in PTZPad.ViscaPTZController.receiveMessage(connection: Network.NWConnection, repeated: Swift.Bool) -&gt; ()"
+                  moduleName = "PTZPad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tattar8/Code/rad/PTZPad/PTZPad/ViscaPTZController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "56A7A17F-566F-4889-9EAB-882126728ACA - 2b1c1d3535f63e4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Network.NWConnection.ContentContext&gt;, Swift.Bool, Swift.Optional&lt;Network.NWError&gt;) -&gt; () in PTZPad.ViscaPTZController.receiveMessage(connection: Network.NWConnection, repeated: Swift.Bool, numberOfTimes: Swift.Int, RetClosure: (Foundation.Data) -&gt; ()) -&gt; ()"
+                  moduleName = "PTZPad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tattar8/Code/rad/PTZPad/PTZPad/ViscaPTZController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "700">
+               </Location>
+               <Location
+                  uuid = "56A7A17F-566F-4889-9EAB-882126728ACA - 2b1c1d3535f63e4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Network.NWConnection.ContentContext&gt;, Swift.Bool, Swift.Optional&lt;Network.NWError&gt;) -&gt; () in PTZPad.ViscaPTZController.receiveMessage(connection: Network.NWConnection, repeated: Swift.Bool, numberOfTimes: Swift.Int, RetClosure: (Foundation.Data) -&gt; ()) -&gt; ()"
+                  moduleName = "PTZPad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tattar8/Code/rad/PTZPad/PTZPad/ViscaPTZController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78222D41-2F0A-4E69-868B-CF3FF40BDEE7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/ViscaPTZController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "receiveMessage(connection:repeated:numberOfTimes:RetClosure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "78222D41-2F0A-4E69-868B-CF3FF40BDEE7 - a5d99d9d73a75fa5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Network.NWConnection.ContentContext&gt;, Swift.Bool, Swift.Optional&lt;Network.NWError&gt;) -&gt; () in PTZPad.ViscaPTZController.receiveMessage(connection: Network.NWConnection, repeated: Swift.Bool) -&gt; ()"
+                  moduleName = "PTZPad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tattar8/Code/rad/PTZPad/PTZPad/ViscaPTZController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "78222D41-2F0A-4E69-868B-CF3FF40BDEE7 - 2b1c1d3535f63e8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Network.NWConnection.ContentContext&gt;, Swift.Bool, Swift.Optional&lt;Network.NWError&gt;) -&gt; () in PTZPad.ViscaPTZController.receiveMessage(connection: Network.NWConnection, repeated: Swift.Bool, numberOfTimes: Swift.Int, RetClosure: (Foundation.Data) -&gt; ()) -&gt; ()"
+                  moduleName = "PTZPad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tattar8/Code/rad/PTZPad/PTZPad/ViscaPTZController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "728">
+               </Location>
+               <Location
+                  uuid = "78222D41-2F0A-4E69-868B-CF3FF40BDEE7 - 2b1c1d3535f63e8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Network.NWConnection.ContentContext&gt;, Swift.Bool, Swift.Optional&lt;Network.NWError&gt;) -&gt; () in PTZPad.ViscaPTZController.receiveMessage(connection: Network.NWConnection, repeated: Swift.Bool, numberOfTimes: Swift.Int, RetClosure: (Foundation.Data) -&gt; ()) -&gt; ()"
+                  moduleName = "PTZPad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tattar8/Code/rad/PTZPad/PTZPad/ViscaPTZController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "112A66E9-D4BA-4B53-B74B-4FB6AA3D494B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/PTZManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "setCamPreset(btn:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92D54E19-31E4-4409-A80E-94572428C2E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/PTZManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "setCamPreset(btn:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11D90082-1CA9-4204-8D8E-918AB15577EE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/PTZManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "setCamPreset(btn:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "11D90082-1CA9-4204-8D8E-918AB15577EE - 62f5b42e56b308bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PTZPad.PTZManager.setCamPreset(btn: PTZPad.PTZManager.ButtonMapping) -&gt; ()"
+                  moduleName = "PTZPad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tattar8/Code/rad/PTZPad/PTZPad/PTZManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "11D90082-1CA9-4204-8D8E-918AB15577EE - d996c54394bf51b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data) -&gt; () in PTZPad.PTZManager.setCamPreset(btn: PTZPad.PTZManager.ButtonMapping) -&gt; ()"
+                  moduleName = "PTZPad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tattar8/Code/rad/PTZPad/PTZPad/PTZManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  uuid = "11D90082-1CA9-4204-8D8E-918AB15577EE - 45148d5fd4c7b59c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((offset: Swift.Int, element: PTZPad.PTZManager.PTZCam)) -&gt; Swift.Bool in closure #1 (Foundation.Data) -&gt; () in PTZPad.PTZManager.setCamPreset(btn: PTZPad.PTZManager.ButtonMapping) -&gt; ()"
+                  moduleName = "PTZPad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tattar8/Code/rad/PTZPad/PTZPad/PTZManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "11D90082-1CA9-4204-8D8E-918AB15577EE - d996c54394bf51b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data) -&gt; () in PTZPad.PTZManager.setCamPreset(btn: PTZPad.PTZManager.ButtonMapping) -&gt; ()"
+                  moduleName = "PTZPad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tattar8/Code/rad/PTZPad/PTZPad/PTZManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "408">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01E387F9-2239-4350-850C-6A5C10DDE225"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/PTZManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "01E387F9-2239-4350-850C-6A5C10DDE225 - 8fc2d3d04f75ea6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PTZPad.PTZManager.init() -&gt; PTZPad.PTZManager"
+                  moduleName = "PTZPad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tattar8/Code/rad/PTZPad/PTZPad/PTZManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1792">
+               </Location>
+               <Location
+                  uuid = "01E387F9-2239-4350-850C-6A5C10DDE225 - 4a55c3007d76b75f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PTZPad.PTZManager.addNewCam(viscaAddr: Swift.String, viscaPort: Swift.String, rtspURL: Swift.String, name: Swift.String) -&gt; ()"
+                  moduleName = "PTZPad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tattar8/Code/rad/PTZPad/PTZPad/PTZManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "01E387F9-2239-4350-850C-6A5C10DDE225 - 8fc2d3d04f75ea0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PTZPad.PTZManager.init() -&gt; PTZPad.PTZManager"
+                  moduleName = "PTZPad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tattar8/Code/rad/PTZPad/PTZPad/PTZManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1584">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "585A70E7-6230-4CA5-85CF-9C669A3BCF77"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/PTZManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "setCamPreset(btn:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1346A0C5-D26E-47AA-89C8-BA4517756987"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/PTZManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "setCamPreset(btn:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "216686D1-6799-4F76-A1E1-648CA217CE22"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/ViscaPTZController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "send(_:rcv:RetClosure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46805CAD-6249-48D2-9F67-239D0C4D778B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/PTZManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "setCamPreset(btn:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C83910B0-BC05-4F98-9956-8B4553526541"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PTZPad/ViscaPTZController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "receiveMessage(connection:repeated:numberOfTimes:RetClosure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C83910B0-BC05-4F98-9956-8B4553526541 - 2b1c1d3535f63fe5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Network.NWConnection.ContentContext&gt;, Swift.Bool, Swift.Optional&lt;Network.NWError&gt;) -&gt; () in PTZPad.ViscaPTZController.receiveMessage(connection: Network.NWConnection, repeated: Swift.Bool, numberOfTimes: Swift.Int, RetClosure: (Foundation.Data) -&gt; ()) -&gt; ()"
+                  moduleName = "PTZPad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tattar8/Code/rad/PTZPad/PTZPad/ViscaPTZController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "852">
+               </Location>
+               <Location
+                  uuid = "C83910B0-BC05-4F98-9956-8B4553526541 - 2b1c1d3535f63fe5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Network.NWConnection.ContentContext&gt;, Swift.Bool, Swift.Optional&lt;Network.NWError&gt;) -&gt; () in PTZPad.ViscaPTZController.receiveMessage(connection: Network.NWConnection, repeated: Swift.Bool, numberOfTimes: Swift.Int, RetClosure: (Foundation.Data) -&gt; ()) -&gt; ()"
+                  moduleName = "PTZPad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tattar8/Code/rad/PTZPad/PTZPad/ViscaPTZController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "408">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
