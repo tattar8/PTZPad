@@ -11,3 +11,5 @@ Analog sticks: pan/tilt
 Triggers: zoom
 Face buttons: presets (long press to set, tap to recall)
 Shoulders: switch selected camera
+
+Dependency:  VLCKit (not included in project)
